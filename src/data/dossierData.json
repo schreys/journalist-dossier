@@ -1,0 +1,42 @@
+{
+  "title": "The Impact of Climate Change on Coastal Communities",
+  "url": "https://example.com/climate-change-coastal",
+  "description": "This investigative piece explores how rising sea levels and extreme weather events are affecting coastal communities around the world. The article examines both the environmental and socioeconomic impacts, with a particular focus on vulnerable populations.",
+  "extraLinks": [
+    {
+      "title": "IPCC Special Report on the Ocean and Cryosphere",
+      "url": "https://www.ipcc.ch/srocc/",
+      "description": "Comprehensive scientific report on climate change impacts on oceans and coastal regions."
+    },
+    {
+      "title": "Rising Seas: The New Reality for Coastal Areas",
+      "url": "https://example.com/rising-seas-report",
+      "description": "Research on sea level projections for the next century."
+    },
+    {
+      "title": "Economic Analysis of Climate Adaptation Strategies",
+      "url": "https://example.com/economic-analysis-climate",
+      "description": "Study on the economic costs and benefits of various adaptation approaches."
+    }
+  ],
+  "reasoningModel": {
+    "mainThesis": "Climate change is disproportionately affecting coastal communities, with vulnerable populations bearing the heaviest burden.",
+    "keyPoints": [
+      "Sea level rise is accelerating beyond previous projections",
+      "Extreme weather events are increasing in both frequency and intensity",
+      "Economic impacts include property loss, infrastructure damage, and declining fisheries",
+      "Adaptation measures vary widely in effectiveness and adoption rates",
+      "Local government responses are often constrained by limited resources"
+    ],
+    "counterArguments": [
+      "Some argue that natural coastal erosion cycles are being confused with climate effects",
+      "Economic benefits of development may outweigh climate risks in certain areas",
+      "Technical solutions like sea walls could protect many vulnerable areas"
+    ],
+    "evidenceGaps": [
+      "More longitudinal data needed on community displacement patterns",
+      "Limited research on effectiveness of community-based adaptation approaches",
+      "Unclear long-term economic impact projections beyond 2050"
+    ]
+  }
+}
